@@ -26,6 +26,7 @@ public class CallRestWebService {
 	// commentaire rayen
 	// commentaire adem1 
 	// commentaire adem2 
+	// commentaire shaima
 	public static void main(String[] args) {
 		HttpClient client = new DefaultHttpClient();
 		HttpGet request = new HttpGet(endpoint);
