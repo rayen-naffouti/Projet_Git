@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: hajerdardouri
 Build-Jdk: 16.0.1
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Built-By: shaima.zouai
+Build-Jdk: 17.0.5
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> 0a60b104e5480f7e3eb8388cac482d42ca43b1d9
