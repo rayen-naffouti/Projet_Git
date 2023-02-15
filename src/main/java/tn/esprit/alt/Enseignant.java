@@ -5,7 +5,7 @@ public class Enseignant extends Personne {
         super(nom, age);
         this.matiere = matiere;
     }
-
+    //test
     public String getMatiere() {
         return matiere;
     }
